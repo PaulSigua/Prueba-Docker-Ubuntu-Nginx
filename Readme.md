@@ -1,5 +1,11 @@
 # Creacion de una Imagen que arranca desde Ubuntu y se alza en un servidor de Nginx
 
+# Nombre: Paul Mateo Sigua Calle
+
+# Asunto: DockerFile Prueba
+
+# Materia: SISTEMAS DISTRIBUIDOS
+
 1. Creacion del Fronted utilizando Angular
 
 2. Creacion del Archivo Dockerfile
