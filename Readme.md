@@ -1,10 +1,22 @@
 # Creacion de una Imagen que arranca desde Ubuntu y se alza en un servidor de Nginx
 
-# Nombre: Paul Mateo Sigua Calle
+### Nombre: Paul Mateo Sigua Calle
 
-# Asunto: DockerFile Prueba
+### Asunto: DockerFile Prueba
 
-# Materia: SISTEMAS DISTRIBUIDOS
+### Materia: SISTEMAS DISTRIBUIDOS
+
+# Instalacion y ejecucion de la Imagen
+
+1. Instalacion
+
+Dentro de CMD ingresamos a la carpeta e introducimos el siguiente comando docker pull mateo2021/pruebapp:latest
+
+2. Ejecucion
+
+Dentro de CMD ingresamos el siguiente comando docker run -t -p 80:80 mateo2021/pruebapp:latest
+
+# Archivos utilizados
 
 1. Creacion del Fronted utilizando Angular
 
